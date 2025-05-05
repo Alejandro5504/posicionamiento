@@ -1,0 +1,16 @@
+#s1>h1 {
+
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(59, 58, 58);
+    font-size: 2em;
+    text-align: center;
+
+}
+
+#s1>h1>span {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+    font-size: 24px;
+
+}
